@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1056703632776",
+    "firebase_url": "https://testfirestoresorting.firebaseio.com",
+    "project_id": "testfirestoresorting",
+    "storage_bucket": "testfirestoresorting.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056703632776:android:efee899762bda8f7",
+        "android_client_info": {
+          "package_name": "com.testfirestoresort"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056703632776-4i52vmutg2igc0tr13ifst3gkt339dm2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcP7aDYlZOBTFSu6BPYhFFkG6bc8nmeb4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
